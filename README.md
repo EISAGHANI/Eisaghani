@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, AI, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [eisabacha.com](eisabacha.com)
+- 👨‍💻 All of my projects are available at [[eisabacha.com](eisabacha.com)](https://eisabacha.com/)
 
 - 📝 I regularly write articles on [eisabacha.com](eisabacha.com)
 
