@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/eisabacha" target="blank"><img src="https://img.shields.io/twitter/follow/eisabacha?logo=twitter&style=for-the-badge" alt="eisabacha" /></a> </p>
 
-- 🔭 I’m currently working on [ButFirstMe](butfirstme.de)
+- 🔭 I’m currently working on (https://butfirstme.de/)
 
 - 🌱 I’m currently learning **NextJS, Machine Learning, AWS, Python**
 
