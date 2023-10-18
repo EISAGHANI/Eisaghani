@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **react, NextJS, JS, TS**
 
-- 📫 How to reach me **eisabcaha@gmail.com**
+- 📫 How to reach me **eisabacha@gmail.com**
 
 - 📄 Know about my experiences [eisabacha.com](eisabacha.com)
 
