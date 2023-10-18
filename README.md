@@ -19,15 +19,15 @@
 
 - 👯 I’m looking to collaborate on **Data Science, AI, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [[eisabacha.com](eisabacha.com)](https://eisabacha.com/)
+- 👨‍💻 All of my projects are available at (https://eisabacha.com/)
 
-- 📝 I regularly write articles on [eisabacha.com](eisabacha.com)
+- 📝 I regularly write articles on (https://eisabacha.com/)
 
 - 💬 Ask me about **react, NextJS, JS, TS**
 
 - 📫 How to reach me **eisabacha@gmail.com**
 
-- 📄 Know about my experiences [eisabacha.com](eisabacha.com)
+- 📄 Know about my experiences (https://eisabacha.com/)
 
 - ⚡ Fun fact **I think I am a tech lover**
 
