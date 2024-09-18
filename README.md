@@ -13,17 +13,17 @@
 
 <p align="left"> <a href="https://twitter.com/eisabacha" target="blank"><img src="https://img.shields.io/twitter/follow/eisabacha?logo=twitter&style=for-the-badge" alt="eisabacha" /></a> </p>
 
-- 🔭 I’m currently working on (https://butfirstme.de/)
+- 🔭 I’m currently working with Mediverbunds
 
-- 🌱 I’m currently learning **NextJS, Machine Learning, AWS, Python**
+- 🌱 I’m currently learning **Java, Spring, PostgreSQL, Microservices**
 
-- 👯 I’m looking to collaborate on **Data Science, AI, Cloud Computing**
+- 👯 I’m looking to collaborate on **Software and web development**
 
 - 👨‍💻 All of my projects are available at (https://eisabacha.com/)
 
 - 📝 I regularly write articles on (https://eisabacha.com/)
 
-- 💬 Ask me about **react, NextJS, JS, TS**
+- 💬 Ask me about **react, NextJS, JS, TS, Java**
 
 - 📫 How to reach me **eisabacha@gmail.com**
 
