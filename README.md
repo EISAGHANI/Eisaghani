@@ -19,15 +19,11 @@
 
 - 👯 I’m looking to collaborate on **Software and web development**
 
-- 👨‍💻 All of my projects are available at (https://eisabacha.com/)
-
-- 📝 I regularly write articles on (https://eisabacha.com/)
+- 👨‍💻 All of my projects are available at (https://github.com/EISAGHANI)
 
 - 💬 Ask me about **react, NextJS, JS, TS, Java**
 
 - 📫 How to reach me **eisabacha@gmail.com**
-
-- 📄 Know about my experiences (https://eisabacha.com/)
 
 - ⚡ Fun fact **I think I am a tech lover**
 
