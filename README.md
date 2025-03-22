@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working with Mediverbunds
 
-- 🌱 I’m currently learning **Java, Spring, PostgreSQL, Microservices**
+- 🌱 I’m currently learning **C#, .Net**
 
 - 👯 I’m looking to collaborate on **Software and web development**
 
 - 👨‍💻 All of my projects are available at (https://github.com/EISAGHANI)
 
-- 💬 Ask me about **react, NextJS, JS, TS, Java**
+- 💬 Ask me about **react, NextJS, JS, TS**
 
 - 📫 How to reach me **eisabacha@gmail.com**
 
