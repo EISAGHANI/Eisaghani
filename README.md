@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/eisabacha" target="blank"><img src="https://img.shields.io/twitter/follow/eisabacha?logo=twitter&style=for-the-badge" alt="eisabacha" /></a> </p>
 
-- 🔭 I’m currently working with Mediverbunds
+- 🔭 I’m currently working with CardAssist CA GmBH, Berlin
 
-- 🌱 I’m currently learning **C#, .Net**
+- 🌱 I’m currently working in **C#, .Net**
 
 - 👯 I’m looking to collaborate on **Software and web development**
 
-- 👨‍💻 All of my projects are available at (https://github.com/EISAGHANI)
+- 👨‍💻 Some of my projects are available at (https://github.com/EISAGHANI)
 
-- 💬 Ask me about **react, NextJS, JS, TS**
+- 💬 Ask me about **.Net, C#, react, NextJS, JS, TS, SQL**
 
 - 📫 How to reach me **eisabacha@gmail.com**
 
