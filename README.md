@@ -1,5 +1,3 @@
-![logo](https://github.com/EISAGHANI/Eisaghani/blob/main/BannerEisa.jpg)
-
 <h1 align="center">Hi 👋, I'm Mohammad Eisa</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
