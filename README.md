@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eisabacha"><img src="https://img.shields.io/badge/LinkedIn-eisabacha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eisabacha@gmail.com"><img src="https://img.shields.io/badge/Email-eisabacha%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/eisabacha"><img src="https://img.shields.io/badge/X-@eisabacha-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-555555?style=flat&logo=googlemaps&logoColor=white" alt="Berlin, Germany" />
   <img src="https://img.shields.io/badge/Open%20to-Software%20%26%20AI%20Engineer%20roles-2EA44F?style=flat" alt="Open to Software and AI Engineer roles" />
 </p>
