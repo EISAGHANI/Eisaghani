@@ -1,41 +1,81 @@
-<h1 align="center">Hi 👋, I'm Mohammad Eisa</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi, I'm Mohammad Eisa 👋</h1>
+<h3 align="center">Software Engineer · C#/.NET &amp; Python · Building AI &amp; LLM applications</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eisaghani&label=Profile%20views&color=0e75b6&style=flat" alt="eisaghani" /> </p>
-
-<img align="center" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eisaghani" alt="eisaghani" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/eisabacha" target="blank"><img src="https://img.shields.io/twitter/follow/eisabacha?logo=twitter&style=for-the-badge" alt="eisabacha" /></a> </p>
-
-- 🔭 I’m currently working with CardAssist CA GmBH, Berlin
-
-- 🌱 I’m currently working in **C#, .Net**
-
-- 👯 I’m looking to collaborate on **Software and web development**
-
-- 👨‍💻 Some of my projects are available at (https://github.com/EISAGHANI)
-
-- 💬 Ask me about **.Net, C#, react, NextJS, JS, TS, SQL**
-
-- 📫 How to reach me **eisabacha@gmail.com**
-
-- ⚡ Fun fact **I think I am a tech lover**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/eisaghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eisaghani" height="30" width="40" /></a>
-<a href="https://twitter.com/eisabacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eisabacha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eisabacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eisabacha" height="30" width="40" /></a>
-<a href="https://fb.com/eisabacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eisabacha" height="30" width="40" /></a>
-<a href="https://instagram.com/eisaghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eisaghani" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eisabacha"><img src="https://img.shields.io/badge/LinkedIn-eisabacha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eisabacha@gmail.com"><img src="https://img.shields.io/badge/Email-eisabacha%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/eisabacha"><img src="https://img.shields.io/badge/X-@eisabacha-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-555555?style=flat&logo=googlemaps&logoColor=white" alt="Berlin, Germany" />
+  <img src="https://img.shields.io/badge/Open%20to-Software%20%26%20AI%20Engineer%20roles-2EA44F?style=flat" alt="Open to Software and AI Engineer roles" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## About me
 
+I'm a software engineer in Berlin with **4+ years of experience** building backend and full-stack applications in **C#/.NET** and **Python**, with a growing focus on bringing **AI into real products**.
+
+- 🏥 Software Engineer at **Card Assist CA GmbH**, building .NET software in German healthcare IT that connects ~200 medical facilities to the national telematics infrastructure (TI)
+- 🤖 Shipped several **LLM-based features to production**, with a focus on data protection and self-hosted models
+- 🔨 Currently building **[DocuMind AI](https://github.com/EISAGHANI/documind-ai)**, a multi-tenant RAG platform for enterprise documents
+- 🎓 M.Sc. Software Engineering, Heilbronn University (started out in geology)
+- 🌍 Working in English (C2) and German (B2)
+- 💬 Ask me about **.NET, ASP.NET Core, RAG, LLM integrations and Next.js**
+
+---
+
+## Featured project
+
+### [DocuMind AI](https://github.com/EISAGHANI/documind-ai)
+
+A multi-tenant B2B platform where companies upload their PDFs, index them automatically and ask questions in plain language, with answers that cite the source document and page.
+
+- **RAG pipeline:** Voyage embeddings (1,024 dims), PostgreSQL + pgvector (HNSW index), top-8 retrieval, answers streamed via SSE
+- **Multiple LLM providers:** Claude, OpenAI and Gemini, with bring-your-own-key per tenant
+- **Multi-tenancy and security:** EF Core query filters, role-based access, encrypted API keys
+- **Stack:** .NET 10 · ASP.NET Core · Next.js · TypeScript · Tailwind CSS · Docker Compose
+
+<sub>Status: in active development</sub>
+
+---
+
+## Tech stack
+
+**Languages & backend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,nodejs,postgres,mongodb" alt="C#, .NET, Python, FastAPI, Node.js, PostgreSQL, MongoDB" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
+</p>
+
+**Cloud & DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,terraform,git,githubactions,linux" alt="Docker, Azure, AWS, Terraform, Git, GitHub Actions, Linux" />
+</p>
+
+**AI & LLMs**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/RAG-0E75B6?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-24292F?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+</p>
+
+---
+
+## Let's connect
+
+I'm open to **Software Engineer** and **AI Engineer** roles where solid engineering and practical AI come together.
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/eisabacha) or by email at **eisabacha@gmail.com**.
